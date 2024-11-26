@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdoka=self.webpackChunkdoka||[]).push([[4284],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/demo_doka/blog","blogTitle":"Blog","authorsListPath":"/demo_doka/blog/authors"}')}}]);
